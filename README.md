@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React<br>Meus LinkedIn: https://www.linkedin.com/in/raphael-teves-maia-c/</p>
+<p align="left">📚 I'm currently learning React<br>Meu LinkedIn: https://www.linkedin.com/in/raphael-teves-maia-c/</p>
 
 ###
 
