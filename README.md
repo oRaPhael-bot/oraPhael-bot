@@ -19,6 +19,17 @@
 
 ###
 
+<h2 align="left">Estatísticas do GitHub</h2>
+
+###
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oRaPhael-bot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Raphael" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oRaPhael-bot&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</div>
+
+###
+
 <h2 align="left">Tecnologias:</h2>
 
 ###
