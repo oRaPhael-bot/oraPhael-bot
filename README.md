@@ -1,68 +1,34 @@
-<h1 align="left">Olá, me chamo Raphael!</h1>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=2F6FED&background=00000000&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I'm+Raphael+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+%2F+SOC+Analyst+in+training;Detect+%E2%80%A2+Investigate+%E2%80%A2+Respond" alt="Hey, I'm Raphael" />
+</a>
 
-###
+**Software Developer → Blue Team / SOC** · Brazil 🇧🇷
 
-<p align="left">Sou Desenvolvedor Full-stack com experiência na criação de sistemas de ponta a ponta, APIs e automação de processos.</p>
+Transitioning from software development and IT analysis into cybersecurity defense —
+focused on SOC operations, threat detection and incident response. I bring a builder's
+mindset to security: understanding how systems work under the hood makes it easier to
+spot when something's wrong with them.
 
-###
+### Now
 
-<h2 align="left">Sobre mim</h2>
+- Studying for **CompTIA Security+**
+- Practicing detection & IR on **TryHackMe** and **LetsDefend.io**
+- Building a home-lab SOC environment (VirtualBox + Wazuh) for hands-on SIEM practice
+- Next up: **AWS security** fundamentals (GuardDuty, IAM, CloudTrail)
 
-###
+### What I work with
 
-<p align="left">
-🚀 Atuo no desenvolvimento de soluções utilizando React, TypeScript, Node.js, Java e Spring Boot.<br>
-⚙️ Tenho forte experiência em automação de fluxos de trabalho (n8n, Python) e otimização de processos operacionais.<br>
-💼 Meu portfólio inclui o desenvolvimento de e-commerces, plataformas imobiliárias, sistemas acadêmicos e ferramentas de gestão de tarefas.<br>
-🔗 Meu LinkedIn: https://www.linkedin.com/in/raphael-teves-maia-c/
-</p>
+<img src="https://skillicons.dev/icons?i=linux,kali,wireshark,aws,py,bash,git,github,js,react,html,css&perline=6" />
 
-###
+### Find me
 
-<h2 align="left">Estatísticas do GitHub</h2>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=F5D90A)](https://www.linkedin.com/in/raphael-teves-maia-c/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-F5D90A?style=for-the-badge&logo=googlechrome&logoColor=000000)](#)
+[![Email](https://img.shields.io/badge/EMAIL-F5D90A?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:raphamaia9@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=F5D90A)](https://wa.me/5511988629441)
 
-###
+### Pinned
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oRaPhael-bot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Raphael" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oRaPhael-bot&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</div>
-
-###
-
-<h2 align="left">Tecnologias:</h2>
-
-###
-
-<div align="left">
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  
-  <!-- Back-end & Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
-</div>
+- **[top10-security](https://oraphael-bot.github.io/top10-security/)** — fictional cybersecurity company site, deployed on GitHub Pages
+- **raphael-portfolio** — personal portfolio, blue team / SOC themed
+- add your other repos here (TryHackMe writeups, home-lab notes, etc.)
